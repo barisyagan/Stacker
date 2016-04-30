@@ -1,6 +1,11 @@
 
 	Barış Yağan Stacker Game
-In my game there is a rectangle bar consist of 3 square and it is moving from a side to other side on grid. When you hit to the spacebar key, bar stops and a new bar emerges on top of the bar stopped. When a bar is stopped if there is no bar under the any part of it, these parts disappear and length of bar gets smaller. Aim of game is reaching to the top by pilling up bars in a row. Also when you go higher, bars get smaller and move faster.  (My package named Stacker consists of src and bin files, background.png, fail.wav, win.wav, button-22.wav, readme.txt)
+In my game there is a rectangle bar consist of 3 square and it is moving from a side to other side on grid. 
+When you hit to the spacebar key, bar stops and a new bar emerges on top of the bar stopped. When a bar is 
+stopped if there is no bar under the any part of it, these parts disappear and length of bar gets smaller. 
+Aim of game is reaching to the top by pilling up bars in a row. Also when you go higher, bars get smaller 
+and move faster.  
+(My package named Stacker consists of src and bin files, background.png, fail.wav, win.wav, button-22.wav, readme.txt)
 
 Class: Stacker
 Methods
