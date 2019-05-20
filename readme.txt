@@ -1,4 +1,4 @@
-![Screenshot of the gameplay](/ScreenShot.png)
+![screede](/ScreenShot.png)
 	
 	Barış Yağan Stacker Game
 	
