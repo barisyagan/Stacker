@@ -1,8 +1,7 @@
-
+![Screenshot of the gameplay](/ScreenShot.png)
+	
 	Barış Yağan Stacker Game
 	
-![Screenshot of the gameplay](/ScreenShot.png)
-
 In my game there is a rectangle bar consist of 3 square and it is moving from a side to other side on grid. 
 When you hit to the spacebar key, bar stops and a new bar emerges on top of the bar stopped. When a bar is 
 stopped if there is no bar under the any part of it, these parts disappear and length of bar gets smaller. 
@@ -42,4 +41,3 @@ public void setN(int n) //sets the number of square that bar will have.
 public void playSound()
 public void playFailure()
 public void playWin()      
-    
